@@ -62,4 +62,4 @@ Through [@SLBotsOfficial](https://telegram.me/SLBotsOfficial) or you can contact
 
 <i>❤️ Thanks to everyone in this journey</i> 
 <i>🥰 Thanks to [Hillard-har](https://github.com/Hillard-har)</i> 
-<i>🥰 Thanks to [Anonymous](https://telegram.me/Ns-AnoNymouS)</i> 
+<i>& 🥰 [Anonymous](https://telegram.me/Ns-AnoNymouS)</i> 
