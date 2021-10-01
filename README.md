@@ -53,10 +53,6 @@ I am not a progrommer though it is written in my own hands
 If you have any suggestions to update the bot for better user friendly expirience you can contact me 
 Through [@SLBotsOfficial](https://telegram.me/SLBotsOfficial) or you can contact me directly.
 
-## My Channel
-
-<b>[@Ts_Bots](https://telegram.me/ts_bots)</b>
-
 
 ### Thanks to
 
