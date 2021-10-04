@@ -1,4 +1,4 @@
-# AutoCaption-Ts_Bot
+# AutoCaption
 
 
 An open source of telegram Auto Caption bot
